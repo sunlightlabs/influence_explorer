@@ -1,6 +1,6 @@
 # the code for Influence Explorer doesn't live here!
 
-This is a central hub for repos related to Influence Explorer, as well as the project's knowledge repo. The following repos are part of the Influence Explorer universe:
+This is a central hub for repos related to Influence Explorer, as well as the project's wiki. The following repos are part of the Influence Explorer universe:
 
 | Repo | Purpose |
 | ---- | ------- |
