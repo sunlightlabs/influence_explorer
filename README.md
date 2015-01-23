@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Sunlightlabs/influence_Explorer.png?label=ready&title=Ready)](https://waffle.io/Sunlightlabs/influence_Explorer)
 # the code for Influence Explorer doesn't live here!
 
 This is a central hub for repos related to Influence Explorer, as well as the project's wiki. The following repos are part of the Influence Explorer universe:
