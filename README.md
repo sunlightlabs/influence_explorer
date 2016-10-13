@@ -6,7 +6,7 @@ This is a central hub for repos related to Influence Explorer, as well as the pr
 | Repo | Purpose |
 | ---- | ------- |
 | [sunlightlabs/datacommons](http://github.com/sunlightlabs/datacommons) | backend: imports, mashups, data api |
-| [sunlightlabs/brisket](http://github.com/sunlightlabs/datacommons) | web app: django app responsible for browseable public site |
+| [sunlightlabs/brisket](http://github.com/sunlightlabs/brisket) | web app: django app responsible for browseable public site |
 | [sunlightlabs/dryrub](http://github.com/sunlightlabs/dryrub) | shared static assets (used by brisket and read_FEC) |
 | [sunlightlabs/read_FEC](http://github.com/sunlightlabs/read_FEC) | backend and web app for realtime campaign finance |
 
